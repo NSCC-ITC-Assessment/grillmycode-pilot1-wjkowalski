@@ -1,3 +1,4 @@
+[![Open in Codespaces](https://classroom.github.com/assets/launch-codespace-2972f46106e565e64193e422d61a12cf1da4916b45550586e14ef0a7c637dd04.svg)](https://classroom.github.com/open-in-codespaces?assignment_repo_id=23821667)
 # GrillMyCode - Pilot #1
 
 This repository contains a GitHub Actions workflow that automatically analyses submitted code and generates comprehension questions using AI based on the code submitted. When you push a code file, the **Grill My Code** action will examine your changes and create a GitHub Issue containing questions about the code you submitted.
